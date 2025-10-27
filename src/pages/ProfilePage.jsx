@@ -26,8 +26,8 @@ export default function ProfilePage() {
         <div className="bg-white rounded-lg shadow-lg p-4 md:p-6 mb-6 flex items-center space-x-4">
           <div className="w-16 h-16 rounded-full bg-gradient-to-r from-blue-400 to-indigo-500 flex items-center justify-center text-white font-bold">NA</div>
           <div>
-            <div className="text-lg font-semibold">Nevin Aldora Kayana</div>
-            <div className="text-sm text-slate-600">NIM: 21120123130082</div>
+            <div className="text-lg font-semibold">M Maruf Sabili Riziq</div>
+            <div className="text-sm text-slate-600">NIM: 21120123140123</div>
           </div>
         </div>
         <div className="bg-white rounded-lg shadow-lg p-6">
